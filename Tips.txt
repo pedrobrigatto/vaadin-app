@@ -1,0 +1,6 @@
+To run the application in Heroku, just in case it does not work automatically: 
+- https://devcenter.heroku.com/articles/getting-started-with-spring-mvc-hibernate#add-jetty-runner
+
+Also, make sure the Heroku dyno is active. 
+It happened, in the tutorial we made, that the dyno was not active by default, and we had to turn it on manually. 
+
